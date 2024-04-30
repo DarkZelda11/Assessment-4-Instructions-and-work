@@ -74,9 +74,9 @@ After reading the task requirements, you should be able to identify the classes,
 
 | Class Name | Attributes | Methods |
 | ---------- | ---------- | ------- |
-| `CarPark`    |            |         |
-| `Sensor`     |            |         |
-| `Display`    |            |         |
+| `CarPark`    | `Parking_bays`, `Bay_capacity`| `Add_car`,  `Remove_car` |
+| `Sensor`     | `Sensor_id`, `Sensor_status` | `Activate`, `Deactivate` |
+| `Display`    | `Display_id`, `Display_content` | `Show_message`, `Clear_message` |
 
 **Evidencing:**
 Ensure you have completed the previous table and include at least two methods and attributes for each.
