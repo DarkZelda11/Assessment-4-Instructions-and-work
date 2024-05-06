@@ -443,9 +443,9 @@ This time, we will push the tag to the remote repository:
 
 Add a screenshot of the GitHub repository after pushing the tag, showing the CarPark class with the new methods:
 
-```markdown
-![Added methods to the car park class](images/methods-to-car-park.png)
-```
+
+![Evidence-part-4](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Evidence-part-4.png)
+
 
 Answer the following questions:
 > **Review Questions**
