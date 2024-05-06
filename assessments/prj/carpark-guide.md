@@ -65,7 +65,7 @@ This guide provides detailed step-by-step instructions for completing the projec
 Include a screenshot of your GitHub repository **after** you have pushed your initial commit.
 
 
-![Initial commit](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Evidence-part-1.png)
+![Evidence-part-1](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Evidence-part-1.png)
 
 
 ### Identify classes, methods, and attributes
@@ -104,9 +104,9 @@ Ensure you have completed the previous table and include at least two methods an
 **Evidencing:**
 Include a screenshot of your GitHub repository `src/` directory **after** you have pushed your changes.
 
-```markdown
-![Evidence-part-1](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/assets/161272997/ad1f0758-4761-4685-b028-4322c8562137)
-```
+
+![Evidence-part-2](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Evidence-part-2.png)
+
 
 ### Add constructors and attributes to the classes
 
