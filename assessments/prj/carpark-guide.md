@@ -366,11 +366,17 @@ You may want to see the number of available bays, the current temperature, and t
 Now consider, between the `CarPark`, `Sensor`, and `Display` classes, which class is responsible for each piece of information? There's no right or wrong answer here. But you should be able to justify your answer.
 
 >Q. Which class is responsible for the number of available bays (and why)?
->
+
+Sensor is the class that is responsible for the number of available bays, sensors are installed in each parking bay to determine whether or not that particular bay is currently being occupied. 
+
 >Q. Which class is responsible for the current temperature (and why)?
->
+
+I believe that CarPark is the class that is responsible for the current temperature as depending on where the carpark is located the temperature that the cars will be exposed to will drastically change.
+
 >Q. Which class is responsible for the time (and why)?
->
+
+Display is responsible for the time, I believe this to be the case as the display is instrumental when it comes to ensuring that the time is visible.
+
 --------
 
 ##### Detour: implement available bays
