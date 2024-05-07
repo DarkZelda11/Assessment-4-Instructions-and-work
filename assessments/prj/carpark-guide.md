@@ -366,16 +366,16 @@ You may want to see the number of available bays, the current temperature, and t
 Now consider, between the `CarPark`, `Sensor`, and `Display` classes, which class is responsible for each piece of information? There's no right or wrong answer here. But you should be able to justify your answer.
 
 >Q. Which class is responsible for the number of available bays (and why)?
-
-Sensor is the class that is responsible for the number of available bays, sensors are installed in each parking bay to determine whether or not that particular bay is currently being occupied. 
+>
+>`Sensor is the class that is responsible for the number of available bays, sensors are installed in each parking bay to determine whether or not that particular bay is currently being occupied.`
 
 >Q. Which class is responsible for the current temperature (and why)?
-
-I believe that CarPark is the class that is responsible for the current temperature as depending on where the carpark is located the temperature that the cars will be exposed to will drastically change.
+>
+>`I believe that CarPark is the class that is responsible for the current temperature as depending on where the carpark is located the temperature that the cars will be exposed to will drastically change.`
 
 >Q. Which class is responsible for the time (and why)?
-
-Display is responsible for the time, I believe this to be the case as the display is instrumental when it comes to ensuring that the time is visible.
+>
+>`Display is responsible for the time, I believe this to be the case as the display is instrumental when it comes to ensuring that the time is visible.`
 
 --------
 
@@ -459,10 +459,10 @@ Answer the following questions:
 >      `Answer here...`
 >
 > 2. **What is the difference between an attribute and a property?**  
->    `Answer here...`
+>    `Attributes refer to additional information about an object, while properties describe the characteristics of an object.`
 >
 > 3. **Why do you think we used a dictionary to hold the data we passed the display? List at least one advantage and one disadvantage of this approach.**  
->    `Answer here...`
+>    `One reason we might use a dictionary to hold the data passed to the display is for its versatility and ease of handling multiple pieces of data in a single object. One advantage of using a dictionary is that it allows for the flexible storage of data with key-value pairs. On the other hand, a disadvantage of using dictionaries is the lack of strict enforcement of data types for the values stored in the dictionary.`
 
 #### Add a detect vehicle method to the Sensor class
 
