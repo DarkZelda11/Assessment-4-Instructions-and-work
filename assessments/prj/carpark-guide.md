@@ -768,10 +768,12 @@ Next, we'll create tests for the `Display` class. These tests will test the `__i
 
    
    ![Failed-test-2](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Failed-test-2.png)
+
+   ![Passed-test-1](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Passed-test-2.png)
    
 
-2. Commit your changes to the local repository. Tag the commit with `s7` so your lecturer can find it.
-3. Push the tag to the remote repository.
+3. Commit your changes to the local repository. Tag the commit with `s7` so your lecturer can find it.
+4. Push the tag to the remote repository.
 
    ```bash
    git push --tags
