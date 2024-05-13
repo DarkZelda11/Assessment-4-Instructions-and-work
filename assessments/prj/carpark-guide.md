@@ -452,11 +452,11 @@ Answer the following questions:
 >
 > 1. **Which class is responsible for each of the following pieces of information (and why)?**
 >    - _The number of available bays_  
->      `Answer here...`
+>      `Sensor is the class that is responsible for the number of available bays, sensors are installed in each parking bay to determine whether or not that particular bay is currently being occupied.`
 >    - _The current temperature_  
->      `Answer here...`
+>      `I believe that CarPark is the class that is responsible for the current temperature as depending on where the carpark is located the temperature that the cars will be exposed to will drastically change.`
 >    - _The time_  
->      `Answer here...`
+>      `Display is responsible for the time, I believe this to be the case as the display is instrumental when it comes to ensuring that the time is visible.`
 >
 > 2. **What is the difference between an attribute and a property?**  
 >    `Attributes refer to additional information about an object, while properties describe the characteristics of an object.`
