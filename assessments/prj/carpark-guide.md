@@ -1035,9 +1035,9 @@ We are going to do the latter:
 **Evidencing:**
 After you have merged your branch to main, push to your remote with the s10 tag. Add a screenshot of the GitHub repository after pushing the tag, showing the CarPark class with the new methods:
 
-```markdown
-![Added methods to the car park class](images/methods-to-car-park.png)
-```
+
+![Evidence-part-5](https://github.com/DarkZelda11/Assessment-4-Instructions-and-work/blob/main/assessments/prj/images/Evidence-part-5.png)
+
 
 ### Final step: build a car park!
 
